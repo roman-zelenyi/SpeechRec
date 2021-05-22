@@ -12,6 +12,7 @@
 #include <winrt/Windows.system.h>
 #include <winrt/Windows.UI.Core.h>
 #include <winrt/Windows.Foundation.h>
+#include <winrt/Windows.Foundation.Collections.h>
 #include <winrt/Windows.Media.SpeechRecognition.h>
 #include <winrt/Windows.Media.SpeechSynthesis.h>
 #include <winrt/Windows.Globalization.h>
